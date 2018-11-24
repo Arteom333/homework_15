@@ -1,0 +1,22 @@
+{
+  "name": "homework_15",
+  "version": "1.0.0",
+  "description": "Homework_lesson_15",
+  "main": "script15.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arteom333/homework_15.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "aporcescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arteom333/homework_15/issues"
+  },
+  "homepage": "https://github.com/Arteom333/homework_15#readme"
+}
